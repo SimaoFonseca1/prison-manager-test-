@@ -1,0 +1,4 @@
+/home/uni/Documents/clion-2021.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/uni/Documents/clion-2021.3.3/bin/ninja/linux/ninja -G Ninja /home/uni/CLionProjects/FirstProject
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/uni/CLionProjects/FirstProject/cmake-build-debug
